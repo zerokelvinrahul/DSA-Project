@@ -11,9 +11,6 @@ This program calculates the similarity between two text documents using two meth
 - **Text Filtering**: Filters out non-alphabetic characters and retains only letters and spaces in text files.
 - **File and Text Input Options**: Allows input as either text files or direct text input.
 
-### Requirements
-- C++ compiler supporting C++11 standard or higher.
-
 ### Usage
 
 1. Compile the code and run the executable.
